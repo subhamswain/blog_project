@@ -1,0 +1,52 @@
+.content{
+  float: left;
+  width: 60%;
+  padding: 0 0 0 30px;
+}
+.sidebar{
+  float: right;
+  width: 30%;
+  padding: 10px;
+  background: indigo;
+  height: 100%;
+  color: lime;
+}
+h1{
+  text-align: center;
+  border-bottom: 1px solid;
+  padding: 0 0 10px 0;
+  color: yellow;
+}
+#date{
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+}
+body{
+  background: black;
+  color: orange;
+}
+h2{
+  color: orange;
+}
+.paginator{
+  color: lime;
+}
+#dab{
+  color: red;
+  font-size: 20px;
+  font-style: italic;
+  border-bottom: 2px solid white;
+}
+.cb{
+  color: lime;
+  font-size: 30px;
+}
+#pcount{
+  font-size: 40px;
+  font-weight: bold;
+  color: yellow;
+}
+a{
+  color: #ffff99;
+}
